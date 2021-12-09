@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">6DashBoard</string>
+    <string name="ResultadoCalc">\"The result is \"</string>
+    <string name="edadPerro">\"If you were a dog, you would be \"</string>
+    <string name="anios">\" years old\"</string>
+    <string name="pregunta1">How many nitrogenous bases does DNA have?</string>
+    <string name="resultadoCorrecto">Right answer</string>
+    <string name="resultadoErroneo">Wrong answer</string>
+    <string name="pregunta2">Who discovered gravity?</string>
+    <string name="pregunta3">Who of these characters belongs Marvel?</string>
+    <string name="numero1">Number 1</string>
+    <string name="prNum">First number...</string>
+    <string name="num2">Number 2</string>
+    <string name="scndNumber">Second number</string>
+    <string name="result">The result is: </string>
+    <string name="calc">Calc</string>
+    <string name="aniostot">How old are you?</string>
+    <string name="intEdad">Type your age</string>
+    <string name="calcular">Calc</string>
+    <string name="Continuar">Continue</string>
+    <string name="aceptarr">Ok!</string>
+    <string name="caclclclc">Calculadora</string>
+    <string name="amigoslist">Friends list</string>
+    <string name="edad_canina">Dog age</string>
+    <string name="galer_a_de_imagenes">Image gallery</string>
+    <string name="mapas">Maps</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="herramientas">Settings</string>
+</resources>

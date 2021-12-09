@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">6DashBoard</string>
+    <string name="ResultadoCalc">\"El resultado es \"</string>
+    <string name="edadPerro">\"Si fueras perro, tu edad sería \"</string>
+    <string name="anios">\" años\"</string>
+    <string name="pregunta1">¿Cuantas bases nitrogenadas tiene el ADN?</string>
+    <string name="resultadoCorrecto">El resultado es correcto</string>
+    <string name="resultadoErroneo">El resultado es erroneo</string>
+    <string name="pregunta2">¿Quién descubrio la gravedad?</string>
+    <string name="pregunta3">¿Cual de estos dos personajes pertenece a Marvel?</string>
+    <string name="numero1">numero_1</string>
+    <string name="prNum">Primer numero...</string>
+    <string name="num2">numero_2</string>
+    <string name="scndNumber">Segundo numero...</string>
+    <string name="result">El resultado es:</string>
+    <string name="calc">Calculadora Dani Dobon</string>
+    <string name="aniostot">¿Cuántos años tienes?</string>
+    <string name="intEdad">introduce tu edad</string>
+    <string name="calcular">Calcular</string>
+    <string name="Continuar">Continuar</string>
+    <string name="aceptarr">Aceptar</string>
+    <string name="caclclclc">Calculadora</string>
+    <string name="amigoslist">Lista de Amigos</string>
+    <string name="edad_canina">Edad Canina</string>
+    <string name="galer_a_de_imagenes">Galería de Imagenes</string>
+    <string name="mapas">Mapas</string>
+    <string name="restaurant">Restaurantes</string>
+    <string name="herramientas">Herramientas</string>
+    <string name="musisca">musisca</string>
+    <string name="mapa">mapa</string>
+    <string name="title_activity_maps">Maps_Activity</string>
+</resources>
