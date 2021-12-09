@@ -49,6 +49,7 @@ public class Quizzes_Activity extends AppCompatActivity {
         r1.setText(Respuesta1);
         r2.setText(Respuesta2);
 
+        //Clicl listener del boton
 
         btn.setOnClickListener(view -> {
             if (r1.isChecked()){
